@@ -25,6 +25,7 @@ body {
       width: 30%;
       height: 100%;
       background-position: center center;
+      border-radius: 20px 0 0 20px;
     }
 
     section#login > div#formulario {
@@ -49,6 +50,7 @@ body {
     float: right;
     width: 50%;
     height: 100%;
+    border-radius:0 20px 20px 0;
   }
 
   section#login > div#formulario {
